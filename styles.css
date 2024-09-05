@@ -1,0 +1,11 @@
+body {
+  font-family: Helvetica;
+  color: rgb(49, 30, 30);
+  line-height: 1.5;
+  font-size: 18px;
+  background-color: rgb(191, 213, 230);
+}
+
+p {
+  color: rgb(71, 71, 71);
+}
